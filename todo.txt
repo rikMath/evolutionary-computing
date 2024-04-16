@@ -1,0 +1,6 @@
+- Utilizar código de Gray
+- Descobrir melhor valor para mutação - OK
+- Alterar tamanho da população (?) - OK
+- Mutação Dinâmica (?)
+- Roleta mudar para torneio (?) - OK
+- Alterar forma que é feita a recombinação
